@@ -12,6 +12,7 @@
  * @copyright   2011-2016 Thomas Griffin
  * @license     http://creativecommons.org/licenses/GPL/3.0/ GNU General Public License, version 3 or higher
  *
+ * @wordpress-plugin
  * Plugin Name: TGM Example Plugin
  * Plugin URI:  http://tgmpluginactivation.com/
  * Description: This is an example plugin to going along with the TGM Plugin Activation class.
