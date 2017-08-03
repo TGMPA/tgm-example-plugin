@@ -11,6 +11,9 @@ Please visit the [TGM Plugin Activation](http://tgmpluginactivation.com/) websit
 
 ## Change Log
 
+### 1.0.2 (2017-08-04)
+* Improved code execution prevention when the file is included outside of a WP Context. Props Ninos Ego.
+
 ### 1.0.1 (2016-04-02)
 * Minor tidying up.
 
