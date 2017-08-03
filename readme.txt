@@ -2,8 +2,8 @@
 Contributors: griffinjt, jrf
 Tags: php version, mysql version
 Requires at least: 2.5.0
-Tested up to: 4.5
-Stable tag: 1.0.1
+Tested up to: 4.8
+Stable tag: 1.0.2
 License: GPLv3
 
 Example plugin to demonstrate the ability to handle bundled plugins with the TGM Plugin Activation library.
@@ -16,6 +16,9 @@ Please visit the [TGM Plugin Activation](http://tgmpluginactivation.com/) websit
 
 
 == Changelog ==
+
+= 1.0.2 =
+* Improved code execution prevention when the file is included outside of a WP Context. Props Ninos Ego.
 
 = 1.0.1 =
 * Minor tidying up.

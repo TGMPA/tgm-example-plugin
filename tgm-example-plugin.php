@@ -8,7 +8,7 @@
  * @package     WordPress\Plugins\TGM Example Plugin
  * @author      Thomas Griffin <thomas@thomasgriffinmedia.com>
  * @link        https://github.com/thomasgriffin/TGM-Plugin-Activation
- * @version     1.0.1
+ * @version     1.0.2
  * @copyright   2011-2016 Thomas Griffin
  * @license     http://creativecommons.org/licenses/GPL/3.0/ GNU General Public License, version 3 or higher
  *
@@ -18,7 +18,7 @@
  * Description: This is an example plugin to going along with the TGM Plugin Activation class.
  * Author:      Thomas Griffin
  * Author URI:  http://thomasgriffinmedia.com/
- * Version:     1.0.1
+ * Version:     1.0.2
  * Text Domain: tgm-example-plugin
  * Domain Path: /languages
  *
